@@ -18,8 +18,8 @@ class TEXT:
 ** ➜ Language:** [Python 3](https://www.python.org/)
 ** ➜ FrameWork:** [Pyrogram](https://github.com/pyrogram/pyrogram)
 ** ➜ Developer:** {bot_owner}
-** ➜ Channel:** [Compass Botz](https://t.me/Compass_Botz)
-** ➜ Source Code:** [Press Me](https://github.com/dakshkohli23/New-TG-Rename-Bot)
+** ➜ Channel:** [Compass Botz](https://t.me/tellyfun4u)
+** ➜ Source Code:** [Press Me](https://github.com/sahaynitin4telly/New-TG-Rename-Bot)
 """
 
     HELP_USER = """**🚨 ᴏʜ! ʏᴏᴜ ɴᴇᴇᴅ ʜᴇʟᴘ!**
@@ -32,8 +32,8 @@ class TEXT:
 ꜰᴏʀ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴄʜᴇᴄᴋ ᴀʙᴏᴜᴛ ꜱᴇᴄᴛɪᴏɴ!
 """
 
-    START_TEXT = """ʜᴇʏ! {user_mention} ꜱʜɪɴᴏʙɪ 🥷,
-ɪ'ᴍ ɴᴀʀᴜᴛᴏ ᴜᴢᴜᴍᴀᴋɪ
+    START_TEXT = """ʜᴇʏ! {user_mention} Tellyfun4u 🥷,
+ɪ'ᴍ Video Converter Robot
 ᴛᴇʟᴇɢʀᴀᴍ ʀᴇɴᴀᴍᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ ꜱᴜᴘᴘᴏʀᴛ ɪꜱ ᴍʏ ɴɪɴᴊᴀ ᴡᴀʏ!⚡.
 
 <b>ᴅᴏ /help ꜰᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟꜱ...</b>
@@ -45,13 +45,13 @@ class TEXT:
 ᴅᴏɴᴀᴛᴇ ꜱᴏᴍᴇ ʀᴀᴍᴇɴ ᴛᴏ ʜᴏᴋᴀɢᴇ**
 
 🌀 ᴅᴏɴᴀᴛᴇ ᴍᴇ ᴛᴏ ᴋᴇᴇᴘ ᴋᴏɴᴏʜᴀɢᴀᴋᴜʀᴇ ᴠɪʟʟᴀɢᴇ ᴀʟɪᴠᴇ
-🍜 10ʀꜱ ʀᴀᴍᴇɴ
-🍜 20ʀꜱ ʀᴀᴍᴇɴ
-🍜 30ʀꜱ ʀᴀᴍᴇɴ
-🍜 50ʀꜱ ʀᴀᴍᴇɴ
-🍜 100ʀꜱ ʀᴀᴍᴇɴ
+🍜 10ʀꜱ 
+🍜 20ʀꜱ 
+🍜 30ʀꜱ 
+🍜 50ʀꜱ 
+🍜 100ʀꜱ 
  
 **ᴘᴀʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ**
 ɢᴏᴏɢʟᴇᴘᴀʏ / ᴘᴀʏᴛᴍ / ᴘʜᴏɴᴘᴀʏ / ᴘᴀʏᴘᴀʟ / ɴᴇᴛ ʙᴀɴᴋɪɴɢ
  
-**ᴄᴏɴᴛᴀᴄᴛ ʜᴏᴋᴀɢᴇ:** @Dlaize"""
+**ᴄᴏɴᴛᴀᴄᴛ ʜᴏᴋᴀɢᴇ:** @tellyfun4u"""
