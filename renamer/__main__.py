@@ -17,7 +17,7 @@ from pyromod import listen
 
 def main():
 
-    Renamer = Client("Compass_Botz",
+    Renamer = Client("tellyfun4u",
                  bot_token=Config.BOT_TOKEN,
                  api_id=Config.API_ID,
                  api_hash=Config.API_HASH,
@@ -30,7 +30,7 @@ def main():
     startup_msg = f"⚡ Boot Successfull at @{me.username}\n"
     startup_msg += f"Pyrogram Version: v{__version__}\n"
     startup_msg += f"Python Version: v{platform.python_version()}\n\n"
-    startup_msg += "Deploying has been done. Follow Our Channel @Compass_Botz"
+    startup_msg += "Deploying has been done. Follow Our Channel @tellyfun4u"
     print(startup_msg)
 
     idle()
