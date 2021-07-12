@@ -37,7 +37,7 @@ async def help(c, m, cb=False):
 
 ################## start commamd ##################
 
-@Compass_Botz.on_message(filters.command("start") & filters.private & filters.incoming)
+@tellyfun4u.on_message(filters.command("start") & filters.private & filters.incoming)
 async def start(c, m, cb=False):
     owner = await c.get_users(Config.OWNER_ID)
     owner_username = owner.username if owner.username else 'Compass_Botz'
@@ -97,7 +97,7 @@ async def about(c, m, cb=False):
 
 ################## Mode command ##################
 
-@Compass_Botz.on_message(filters.command("mode") & filters.private & filters.incoming)
+@tellyfun4u.on_message(filters.command("mode") & filters.private & filters.incoming)
 async def set_mode(c, m):
     upload_mode = (await get_data(m.from_user.id)).upload_mode
     if upload_mode:
@@ -111,7 +111,7 @@ async def set_mode(c, m):
 
 ################## reset command ##################
 
-@Compass_Botz.on_message(filters.command("reset") & filters.private & filters.incoming)
+@tellyfun4u.on_message(filters.command("reset") & filters.private & filters.incoming)
 async def reset_user(c, m):
     if m.from_user.id in Config.AUTH_USERS:
         if len(m.command) == 2:
@@ -134,7 +134,7 @@ async def reset_user(c, m):
 
 ################## login command ##################
 
-@Compass_Botz.on_message(filters.command('login') & filters.incoming & filters.private)
+@tellyfun4u.on_message(filters.command('login') & filters.incoming & filters.private)
 async def password(c, m):
     if Config.BOT_PASSWORD:
         if m.from_user.id in Config.AUTH_USERS:
